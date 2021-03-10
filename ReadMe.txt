@@ -1,9 +1,8 @@
 Pre-requisities:
 -----------------
-1. Place the input file in your local or, unix path and update the file path details in the below
+1. Place the input file in your local or, unix path and update the file path details in the below:
     - ApplicationConstants.java
 	   - JSON_FILE_PATH
-
 2. Run the JSONConverterApplication.java
 
 API Details
