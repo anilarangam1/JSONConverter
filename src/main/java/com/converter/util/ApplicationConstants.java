@@ -26,7 +26,8 @@ public class ApplicationConstants {
 	public static final String END_ELEMENT_TAG = "</";
 	public static final String END_ELEMENT_QUOTES="\">";
 	public static final String NULL_ELEMENT = "null";
-	public static final String JSON_FILE_PATH = "";
+	public static final String JSON_INPUT_FILE_PATH = "C:\\Anil Kumar\\Anil Kumar Latest\\FilePath\\input\\example.json";
+	public static final String XML_OUTPUT_FILE_PATH = "C:\\Anil Kumar\\Anil Kumar Latest\\FilePath\\input\\output.xml";
 	public static final String APPLICATION_FILE_NOT_FOUND_MESSAGE = "Invalid File Name or, File Path. Please provide correct file name";
     public static final String NUMBER_REGEX= "\\d+";
     public static final String NUMBER_DATATYPE= "number";

@@ -1,4 +1,4 @@
-Pre-requisities:
+Pre-requisitie:
 -----------------
 1. Place the input file in your local or, unix path and update the file path details in the below:
     - ApplicationConstants.java
