@@ -55,7 +55,7 @@ public class JSONConverterService {
 			if (json == null) {
 				logger.error(errormessage);
 			} else {
-				xml = convert(readJSON());
+				xml = convert(json);
 				generateOuput(xml);
 				logger.info(xml);
 			}
